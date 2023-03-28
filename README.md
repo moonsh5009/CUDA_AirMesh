@@ -9,13 +9,13 @@
 이를 해결하기 위해 다음과 같은 새로운 삼각형 품질 계산 방법을 제안한다.
 
 # Scene
-- scene1
+#### 1
 ![scene1](https://user-images.githubusercontent.com/86860544/228161213-b7b527f6-eb5b-4d52-9c77-c218f9ff0b35.gif)
 
-- scene2
+#### 2
 ![scene2](https://user-images.githubusercontent.com/86860544/228161177-bd466229-fea4-4edc-9a10-0207fccad028.gif)
 
-- scene3
+#### 3
 ![scene3](https://user-images.githubusercontent.com/86860544/228161227-43046e4b-b988-4a5e-ac8a-bd68b3c3e2b6.gif)
 
 # 참고문헌
